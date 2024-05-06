@@ -1,12 +1,12 @@
-# Week 19. Software Project Management, Agile and Scrum, and UML Diagrams. 
+# Software Project Management: Utilization of Agile and Scrum and UML-Diagrams. 
   
-The goal of the project is to create a frontend project.
+The goal of the project is to create a frontend project and showcase different software project management tools.
   
-We need to:   
+Basic Requirements:   
 - Decide what to do 
-- Create plan 
-- Create UML Diagrams 
-- Start a project 
+- Create a plan 
+- Create a UML-Diagram 
+- Start project 
 - Divide it by part and who is responsible which part 
 - Daily Scrum Meetings 
 - Prepare Topics and discussing topics 
