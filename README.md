@@ -2,9 +2,6 @@
   
 Frontend project together
   
-For example: simple eCommerce frontend, can contain a couple of page. 
-  
-  
 You need to:   
 - Decide what to do 
 - Create your plan 
