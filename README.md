@@ -17,7 +17,7 @@ Basic Requirements:
 
 ## Deadline: 16th of May
 
-# Agile tasks
+# Agile Tasks
 
 1. Strategic Planning 
 
@@ -30,3 +30,14 @@ Basic Requirements:
 5. Daily Planning.
 
 ![alt text](https://assets-global.website-files.com/6514c506ba80b4a13f75decd/65b2bb7d1057069ea7e2130b_agile%20planning%20onion%2002.png)
+
+
+# Scrum Tasks
+
+1. Create a sprint planning
+2. Hold Daily Stand ups
+3. Carry out a sprint review
+4. Hold a sprint retrospective
+5. Backlog Refinement
+
+![alt text](https://bordio.com/wp-content/uploads/2022/02/The_5_Scrum_ceremonies.png)
