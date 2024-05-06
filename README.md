@@ -1,8 +1,8 @@
 # Week 19. Software Project Management, Agile and Scrum, and UML Diagrams. 
   
-Frontend project together
+The goal of the project is to create a frontend project.
   
-You need to:   
+We need to:   
 - Decide what to do 
 - Create your plan 
 - Create your UML Diagrams 
@@ -11,6 +11,5 @@ You need to:
 - Daily Scrum Meetings 
 - Preparing to Topics and discussing topics 
 
-Next Thursday (16 of May) you are going to present your group project. What you did? How you did? About planning and so on 
-What went well? 
-What was the problem? How you solved the problems? 
+## Deadline: 16th of May
+
