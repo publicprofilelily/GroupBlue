@@ -17,7 +17,7 @@ Basic Requirements:
 
 ## Deadline: 16th of May
 
-# Agile tasks:
+# Agile tasks
 
 1. Strategic Planning 
 
