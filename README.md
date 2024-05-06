@@ -1,4 +1,4 @@
-# Week –19- Software Project Management, Agile and Scrum, and UML Diagrams. 
+# Week 19. Software Project Management, Agile and Scrum, and UML Diagrams. 
   
 Frontend project together
   
