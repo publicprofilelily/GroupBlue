@@ -28,3 +28,5 @@ Basic Requirements:
 4. Iteration Planning
 
 5. Daily Planning.
+
+![alt text](https://assets-global.website-files.com/6514c506ba80b4a13f75decd/65b2bb7d1057069ea7e2130b_agile%20planning%20onion%2002.png)
