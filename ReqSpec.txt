@@ -1,0 +1,18 @@
+User stories:
+As a customer, I want to be able to....
+
+1. Order a cake with a theme that suits a particular occasion
+2. Have it customized with personal decorations
+3. Choose between different cake sizes (small, medium, large, extra large)
+3. Have the cake delivered within 48 hours
+
+
+Product specifications:
+The product shall....
+
+1. Look delicious
+2. Have 2 or more layers based on sponge cake or chocolate cake
+3. Have icing and decorations in accordance with a theme (such as chocolate, fruit or marzipan)
+4. Be listed with a price on the web site
+5. Be added to the shopping cart when the customer clicks the purchase button
+6. Be removed from the shopping card if a customer clicks the remove button
