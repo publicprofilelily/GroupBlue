@@ -1,6 +1,10 @@
-# Software Project Management: Utilization of Agile and Scrum and UML-Diagrams. 
+# Software Project Management: Utilization of Agile and Scrum Methodology
   
-The goal of the project is to create a frontend project and showcase different software project management tools.
+The goal of the project is to create a frontend project and showcase different software project management tools:
+
+- Agile
+- Scrum
+- UML-diagram
   
 Basic Requirements:   
 - Decide what to do 
