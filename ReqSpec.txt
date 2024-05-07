@@ -1,4 +1,6 @@
-User stories:
+Product requirements and product specifications for Westside Belle Cakery
+
+Product requirements/User stories:
 As a customer, I want to be able to....
 
 1. Order a cake with a theme that suits a particular occasion
