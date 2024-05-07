@@ -1,6 +1,6 @@
 import React from 'react';
-import './Grid.css'; // Corrected to match the filename exactly
-import { importAll } from './imageImporter'; // Importing the image importing function
+import './Grid.css'; 
+import { importAll } from './imageImporter'; 
 
 function Grid() {
   // Importing images using the importAll function
