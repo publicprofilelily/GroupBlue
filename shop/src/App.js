@@ -1,11 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './Layout';
+import { BrowserRouter, Routes } from 'react-router-dom';
+import { Route } from 'react-router-dom';
+import Home from './pages/Home';
+import Products from './pages/Products';
+import Contact from './pages/Contact';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <BrowserRouter>
+      <Layout>
+        <Routes>
+          <Route index path="/" element={<Home />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </Layout>
+    </BrowserRouter>
   );
 }
 
