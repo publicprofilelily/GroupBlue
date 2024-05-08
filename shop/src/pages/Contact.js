@@ -46,7 +46,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.8)" }}
-            src=""
+            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d574160.6535481523!2d12.643593246705256!3d55.79644931395657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ssv!2sse!4v1692330211742!5m2!1ssv!2sse"
           />
           <div className="bg-blue-900 relative flex flex-wrap py-5 rounded shadow-md con">
             <div className="lg:w-2/2 md:w-1/2 sm:w-1/2 px-0">
