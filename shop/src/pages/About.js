@@ -12,9 +12,7 @@ export default function About() {
             <div className="container mx-auto flex px-10 py-10 md:flex-row flex-col item-center flex justify-center">
                 <div class="container mx-auto flex flex-wrap">                
                     <div className="flex relative">                           
-                        <div className="p-8 rounded-xl border border-gray-200 bg-gray-900 h-64">
-                                          
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id lorem eu mauris mattis tincidunt in ut nulla. 
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id lorem eu mauris mattis tincidunt in ut nulla. 
                                     Vestibulum vehicula accumsan luctus. Sed blandit malesuada bibendum. Maecenas ullamcorper ornare arcu, 
                                     vitae aliquet leo aliquet in. Praesent sagittis, tortor et tristique aliquam, lorem ex egestas orci, et rutrum 
                                     felis urna at sapien. Aenean vel porttitor neque. Ut metus lorem, maximus at erat id, posuere ornare libero. 
@@ -45,12 +43,11 @@ export default function About() {
                                     Maecenas finibus commodo lectus, id auctor quam. Vivamus rhoncus tincidunt enim ut sollicitudin. Phasellus vitae tincidunt 
                                     massa, quis tempor nulla. Quisque eu nibh at nisl sagittis consequat. Maecenas rhoncus ante vel convallis sollicitudin. 
                                     Curabitur erat velit, vulputate sit amet lacinia non, luctus vel nisl. Sed vel erat faucibus, pellentesque ligula in, posuere 
-                                    massa. Mauris mattis posuere placerat. Donec quam massa, volutpat at est quis, commodo ullamcorper urna.</p>                                                            
-                        </div>
-                    </div>                                   
+                                    massa. Mauris mattis posuere placerat. Donec quam massa, volutpat at est quis, commodo ullamcorper urna.</p> 
+                        </div>                                   
+                    </div>
                 </div>
             </div>
-        </div>
         </section>
     );
 }
