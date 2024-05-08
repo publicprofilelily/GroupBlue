@@ -10,6 +10,7 @@ export default function Layout({ children }) {
 				<nav >
 					<ul className="grid grid-flow-col gap-10" >
 						<li><Link to="/">Home</Link></li>
+						<li><Link to="/About">About us</Link></li>
 						<li><Link to="/products">Products</Link></li>
 						<li><Link to="/contact">Contact</Link></li>
 					</ul>
