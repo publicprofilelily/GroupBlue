@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 
 export default function ShoppingCart() {
   return (
@@ -83,6 +83,4 @@ export default function ShoppingCart() {
   );
 }
 
-
-
-
+*/

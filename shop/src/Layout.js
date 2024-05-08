@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import { Link } from 'react-router-dom';
 
+
 // Pass the child props
 export default function Layout({ children }) {
 	return (
@@ -13,6 +14,7 @@ export default function Layout({ children }) {
 						<li><Link to="/About">About us</Link></li>
 						<li><Link to="/products">Products</Link></li>
 						<li><Link to="/contact">Contact</Link></li>
+						<li><Link to="/profile">Profile</Link></li>
 					</ul>
 				</nav>
 			</Header>
