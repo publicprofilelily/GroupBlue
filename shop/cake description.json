@@ -1,0 +1,177 @@
+
+[
+    {
+      "name": "cake_blueberry_1",
+      "price": 20.99,
+      "description": "Decadent chocolate cake made with premium cocoa.",
+      "picture":"shop/src/assets/images/cake_blueberry_1.jpg"
+    },
+    {
+      "name": "cake_blueberry_2",
+      "price": 18.99,
+      "description": " Delve into the enchantment of the night with this rich chocolate cake, layered with dark cherry compote and whipped cream, then elegantly wrapped in dark chocolate shavings.",
+      "picture":"shop/src/assets/images/cake_blueberry_2.jpg"
+    },
+    {
+      "name": "cake_carrot",
+      "price": 22.99,
+      "description": " Indulge in the opulence of this moist velvet cake, generously layered with a luxurious cream cheese frosting and adorned with edible gold leaf accents.",
+      "picture":"shop/src/assets/images/cake_carrot.jpg"
+    },
+    {
+      "name": "cake_cat",
+      "price": 20.99,
+      "description": "Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+      "picture":"shop/src/assets/images/cake_cat.jpg"
+      
+    },
+    {
+      "name": "cake_chocolate_1",
+      "price": 25.99,
+      "description": "Refresh your palate with this delightful lemonade-inspired cake, bursting with the tangy zest of lemon sponge, layered with lemon curd, and finished with a sunny lemon glaze.",
+      "picture":"shop/src/assets/images/cake_chocolate_1.jpg"
+      
+      
+    },
+    { "name": "cake_chocolate_2",
+       "price": 30.99,
+        "description": "Indulge in the ultimate chocolate lover's dream with our Velvet Chocolate Bliss cake. Layers of rich chocolate sponge are delicately paired with creamy chocolate ganache and finished with a velvety smooth chocolate glaze. Each bite is a decadent journey into chocolatey heaven.",
+        "picture":"shop/src/assets/images/cake_chocolate_2.jpg"
+        
+      },
+      {
+        "name": "cake_chocolate_3",
+        "price": 29.99,
+        "description": "Experience a fusion of flavors with our Fromage Finesse Delight cake. Creamy cheesecake meets luscious chocolate in this tantalizing creation. A decadent chocolate crust forms the base, topped with a creamy cheesecake filling infused with hints of vanilla. Drizzled with a luxurious chocolate sauce, it's a symphony of sweet and tangy perfection.",
+        "picture":"shop/src/assets/images/cake_chocolate_3.jpg"
+      },
+      {
+        "name": "cake_chocolate_4",
+        "price": 27.99,
+        "description": "Embark on a journey to decadence with our Enchanted Eclair Extravaganza. Delicate choux pastry shells are filled with luscious vanilla bean cream, dipped in a glossy chocolate glaze, and adorned with edible gold leaf for a touch of luxury.",
+        "picture":"shop/src/assets/images/cake_chocolate_4.jpg"
+      },
+      {
+        "name": "cake_kivi",
+        "price": 32.99,
+        "description": "Experience the magic of our Mystical Macaron Medley, where each bite is a symphony of flavors and colors. Crisp and delicate French macarons, filled with a variety of luxurious fillings such as raspberry ganache, pistachio cream, and salted caramel, will transport you to a world of whimsy and delight.",
+        "picture":"shop/src/assets/images/cake_kiwi.jpg"
+      },
+      {
+        "name": "cake_lemon",
+        "price": 25.99,
+        "description": "Indulge in the opulence of our Opulent Ombre Opera cake, a masterpiece of culinary artistry. Layers of almond sponge cake soaked in espresso, layered with velvety chocolate ganache, and finished with a delicate ombre effect, each slice is a decadent symphony of flavors and textures.",
+        "picture":"shop/src/assets/images/cake_lemon.jpg"
+      },
+      {
+        "name": "cake_nuts",
+        "price": 22.99,
+        "description": "Elevate your taste buds with our Regal Raspberry Rose Rhapsody cake, a sensory delight fit for royalty. Moist vanilla sponge cake layers are infused with delicate rose water, filled with layers of raspberry compote and whipped cream, and adorned with fresh raspberries and edible rose petals.",
+        "picture":"shop/src/assets/images/cake_nuts.jpg"
+        
+      },
+      {
+        "name": "Cake_passionfruit",
+        "price": 34.99,
+        "description": "Savor the celestial flavors of our Citrus Symphony cake, a harmonious blend of tangy citrus and sweet indulgence. Layers of light lemon sponge cake are filled with zesty lemon curd and silky Swiss meringue buttercream, creating a heavenly dessert experience.",
+        "picture":"shop/src/assets/images/cake_passionfruit.jpg"
+      },
+      {
+        "name": "cake_pink",
+        "price": 32.99,
+        "description": "Delight in the grandeur of our Grand Cheesecake Affair. A velvety smooth New York-style cheesecake rests atop a buttery graham cracker crust, crowned with a luscious layer of raspberry compote and finished with a delicate dusting of powdered sugar.",
+        "picture":"shop/src/assets/images/cake_pink"
+        
+      },
+      {
+        "name": "cake_roses",
+        "price": 28.99,
+        "description": "Experience ethereal elegance with our Earl Grey-infused cheesecake. A delicate blend of creamy cheesecake and fragrant Earl Grey tea, nestled on a crisp shortbread crust and garnished with candied orange peel for a touch of sophistication.",
+        "picture":"shop/src/assets/images/cake_roses.jpg"
+        
+      },
+      {
+        "name": "cake_valvet_1",
+        "price": 28.99,
+        "description": "Indulge in the lavishness of our Lemon Lavender Luxe cheesecake. A zesty lemon cheesecake meets delicate lavender-infused cream, harmonizing perfectly atop a buttery almond crust, and garnished with candied lemon slices for a touch of opulence.",
+        "picture":"shop/src/assets/images/cake_velvet_1.jpg"
+        
+        
+      },
+      {
+        "name": "cake_valvet_2",
+        "price": 32.99,
+        "description": "Transport yourself to a realm of romance with our Regal Raspberry Rose cheesecake. Velvety raspberry cheesecake meets delicate rose-infused cream, nestled atop a golden brown buttery crust, and adorned with fresh raspberries and edible rose petals.",
+        "picture":"shop/src/assets/images/cake_velvet_2.jpg"
+        
+      },
+      {
+        "name": "chesecake",
+        "price": 22.99,
+        "description": "Surrender to the divine decadence of our Dark Chocolate cheesecake. Rich and creamy chocolate cheesecake rests on a chocolate cookie crust, adorned with a decadent ganache glaze and finished with a sprinkle of cocoa powder for a truly indulgent experience.",
+        "picture":"shop/src/assets/images/cheesecake.jpg"
+        
+      },
+      {
+        "name":"Cupcake_blue",
+        "price": 30.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake_blue.jpg"
+
+      },
+      
+       {
+        "name":"Cupcake_caramel",
+        "price": 30.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake_caramel.jpg"
+       },
+       { 
+        "name":"Cupcake_rainbow",
+        "price": 36.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake_rainbow.jpg"
+       },
+    
+       {
+        "name":"Cupcake_1",
+        "price": 37.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake-1.jpg"
+       },
+      
+       {
+        "name":"Cupcake_2",
+        "price": 32.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake-2.jpg"
+       },
+       {
+        "name":"Cupcake_3",
+        "price": 31.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized pear cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/cupcake-3.jpg"
+       },
+       {
+        "name":"lemoncake_1",
+        "price": 31.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized lemon cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/lemoncake_1.jpg"
+       },
+       {
+        "name":"lemoncake_2",
+        "price": 34.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized lemon cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/lemoncake_2.jpg"
+       },
+       {
+        "name":"lemoncake_3",
+        "price": 33.99,
+        "description":"Savor the essence of autumn with this exquisite caramelized lemon cake, featuring tender pear slices caramelized to perfection atop a delicate almond sponge, drizzled with a luscious caramel sauce.",
+        "picture":"shop/src/assets/images/lemoncake_3.jpg"
+       }
+      
+    ]      
+
+  
+  
