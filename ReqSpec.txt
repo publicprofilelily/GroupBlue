@@ -15,6 +15,6 @@ The product shall....
 1. Look delicious
 2. Have 2 or more layers based on sponge cake or chocolate cake
 3. Have icing and decorations in accordance with a theme (such as chocolate, fruit or marzipan)
-4. Be listed with a price on the web site
+4. Have a price, a description, and an image on the web site
 5. Be added to the shopping cart when the customer clicks the purchase button
 6. Be removed from the shopping card if a customer clicks the remove button
