@@ -1,25 +1,29 @@
 import React from 'react';
-import './Grid.css'; // Corrected to match the filename exactly
-import { importAll } from './imageImporter'; // Importing the image importing function
+import './Grid.css'; 
+
+
+function importAll(r) {
+  let images = [];
+  r.keys().map((item, index) => { images.push(r(item)); });
+  return images;
+}
 
 function Grid() {
   // Importing images using the importAll function
   const images = importAll(require.context('../../assets/images', false, /\.(png|jpe?g|svg)$/));
 
   return (
-    <div className="grid">
-      {/* Use the imported images */}
-      {Object.keys(images).map((imageName, index) => (
-        <div key={index} className="grid-item">
-          <img src={images[imageName].default} alt={imageName} />
+    <div class="grid">
+      {images.map((imgSrc, index) => (
+        <div key={index} class="grid-item">
+          <img src={imgSrc} alt={`Cake ${index}`} style={{ width: '100%', maxHeight: '300px', objectFit: 'cover' }} />
         </div>
-      ))}
-      {/* Predefined grid */}
-      {Array.from({ length: 16 }, (_, index) => (
-        <div key={index} className="grid-item">{index + 1}</div>
       ))}
     </div>
   );
 }
+
+
+
 
 export default Grid;
