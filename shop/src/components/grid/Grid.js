@@ -1,6 +1,6 @@
 import React from 'react';
 import './Grid.css';
-import data from './../../assets/cake_description.json';
+
 
 function importAll(r) {
   let images = [];
@@ -12,23 +12,16 @@ function Grid() {
   // Importing images using the importAll function
   const images = importAll(require.context('../../assets/images', false, /\.(png|jpe?g|svg)$/));
 
-  return (<div class="grid gap-4">
-    {data}
-  </div>
-
-  );
-}
-
-
-/*
- <div class="grid">
+  return (
+    <div class="grid">
       {images.map((imgSrc, index) => (
-        <div key={index} className="grid-item">
+        <div key={index} class="grid-item">
           <img src={imgSrc} alt={`Cake ${index}`} style={{ width: '100%', maxHeight: '300px', objectFit: 'cover' }} />
         </div>
       ))}
     </div>
-*/
+  );
+}
 
 
 
