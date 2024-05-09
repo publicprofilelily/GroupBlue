@@ -1,29 +1,16 @@
 import React from 'react';
 import './Grid.css';
-
-
-function importAll(r) {
-  let images = [];
-  r.keys().map((item, index) => { images.push(r(item)); });
-  return images;
-}
+import data from './../../assets/cake_description.json';
 
 function Grid() {
-  // Importing images using the importAll function
-  const images = importAll(require.context('../../assets/images', false, /\.(png|jpe?g|svg)$/));
 
-  return (
-    <div class="grid">
-      {images.map((imgSrc, index) => (
-        <div key={index} class="grid-item">
-          <img src={imgSrc} alt={`Cake ${index}`} style={{ width: '100%', maxHeight: '300px', objectFit: 'cover' }} />
-        </div>
-      ))}
-    </div>
-  );
+  return <div class="grid gap-4">
+    {data.map(cake => (
+      <div key={cake.picture} className="grid-item">
+        <img src={cake.picture} alt={`Cake ${cake.name}`} style={{ width: '100%', maxHeight: '300px', objectFit: 'cover' }} />
+      </div>
+    ))}
+  </div>
 }
-
-
-
 
 export default Grid;
