@@ -7,6 +7,8 @@ import Products from './pages/Products';
 import Contact from './pages/Contact';
 import About from './pages/About';
 import ProfilePage from './pages/ProfilePage';
+import ShoppingCart from './pages/ShoppingCart';
+
 
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/profile" element={<ProfilePage />} />
+          <Route path="/shoppingcart" element={<ShoppingCart/>}/>
         </Routes>
       </Layout>
     </BrowserRouter>
