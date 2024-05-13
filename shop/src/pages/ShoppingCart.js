@@ -1,6 +1,6 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Assuming Bootstrap CSS is installed via npm
-import '@fortawesome/fontawesome-svg-core/styles.css'; // Ensure proper Font Awesome setup if installed via npm
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import '@fortawesome/fontawesome-svg-core/styles.css'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGift, faCartShopping } from '@fortawesome/free-solid-svg-icons';
 
