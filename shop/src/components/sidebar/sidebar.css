@@ -1,7 +1,6 @@
-/* CSS rules for the sidebar */
 .sidebar {
     width: 200px;
-    height: 100vh;  /* Adjust height as needed, 100vh will cover the full viewport height */
+    height: 100%;
     background-color: rgb(255, 205, 242);
     position: fixed;
     left: 0;
