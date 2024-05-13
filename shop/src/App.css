@@ -36,21 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-/* new lily code. welcome to change completly xd */
-
-.layout {
-  display: flex; /* Establishes a flex container */
-  min-height: 100vh; /* Full viewport height */
-}
-
-.sidebar {
-  width: 250px; /* Fixed width for the sidebar */
-  background-color: #f4f4f4; /* Light grey background, adjust as needed */
-  padding: 20px; /* Padding around the sidebar content */
-}
-
-.main-content {
-  flex-grow: 1; /* Takes up the remaining space */
-  background-color: #fff; /* White background for the main content area */
-}
