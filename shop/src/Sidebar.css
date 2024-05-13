@@ -1,0 +1,26 @@
+/* CSS rules for the sidebar */
+.sidebar {
+    width: 200px;
+    height: 100vh;  /* Adjust height as needed, 100vh will cover the full viewport height */
+    background-color: rgb(255, 205, 242);
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  
+  .menu-items {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .menu-items li {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .menu-items li:hover {
+    background-color: #df58d3;
+  }
+  
